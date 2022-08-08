@@ -4,6 +4,9 @@ Image recognition and sound playback with different accents.
 
 clone the repository and run
 
+- [Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:6955203678861418497/)
+
+
 .
 
 
